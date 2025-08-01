@@ -41,7 +41,7 @@ A comprehensive academic performance report generator that analyzes quiz scores 
 
 1. **Clone or download the project**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/MunaafN/Report-generator-bot
    cd report-generator-bot
    ```
 
