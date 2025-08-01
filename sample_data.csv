@@ -1,0 +1,11 @@
+name,subject,math_score,science_score,english_score,history_score
+John Doe,General,85,92,78,88
+Jane Smith,Science,90,95,82,85
+Mike Johnson,Mathematics,95,88,75,80
+Sarah Wilson,Literature,70,85,92,88
+David Brown,History,80,75,85,90
+Emily Davis,General,88,90,85,82
+Alex Thompson,Science,92,96,80,85
+Lisa Anderson,Mathematics,87,90,78,85
+Tom Wilson,Literature,75,80,90,85
+Rachel Green,History,85,80,88,92 
